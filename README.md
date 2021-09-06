@@ -1,2 +1,2 @@
-# Jupyter-test-projects
+# Test projects
 Test code
